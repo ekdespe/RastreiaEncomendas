@@ -1,5 +1,7 @@
-H1
+
 #Atenção
+ O projeto não está funcional pois a api que eu utilizava para recuperar os dados não está mais funcional;
+
 Já estou trabalhando para mudar o link e realizar as consultas diretamente do sistema dos Correios.
 
 
