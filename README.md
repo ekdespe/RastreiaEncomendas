@@ -1,3 +1,22 @@
+_____________________________________________________________________________________________________
+
+
+
+ ___      .___________. _______ .__   __.   ______      ___        ______   
+    /   \     |           ||   ____||  \ |  |  /      |    /   \      /  __  \  
+   /  ^  \    `---|  |----`|  |__   |   \|  | |  ,----'   /  ^  \    |  |  |  | 
+  /  /_\  \       |  |     |   __|  |  . `  | |  |       /  /_\  \   |  |  |  | 
+ /  _____  \      |  |     |  |____ |  |\   | |  `----. /  _____  \  |  `--'  | 
+/__/     \__\     |__|     |_______||__| \__|  \______|/__/     \__\  \______/  
+
+
+Atenção o Projeto não se está funcional pois o link utilizado para consultas está quebrado.
+Já estou trabalhando para mudar o link e realizar as consultas diretamente do sistema dos Correios.
+
+
+_____________________________________________________________________________________________________
+
+
 Projeto feito em Python que tem por objetivo rastrear encomendas em todo território nacional através do códi
 go de rastreamento.
 
